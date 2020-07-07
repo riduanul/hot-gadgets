@@ -1,0 +1,54 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel-indicators li{
+    background-color: orange;
+    height: 8px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 10px;
+}
+.row p{
+    color: gray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card{
+    box-shadow: 5px  5px  10px  lightgray;
+}
+
+.cat-bar{
+    width: 200px;
+    height: 5px;
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 20px;
+    margin-left: 440px;
+}
+.cat-box-bg{
+    border: 1px solid lightgray;
+    border-radius: 0 25px;
+    padding: 20px;
+
+
+}
+.cat-img{
+    width: 100%;
+    
+}
+.cat-dist{
+    margin-bottom: 50px;
+}
+
+.cat-bag-dist{
+    margin-right: 30px;
+}
